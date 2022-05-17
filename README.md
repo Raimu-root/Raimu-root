@@ -1,7 +1,6 @@
 <h1 align="center">👋　見てくれてありがとう！ 私は雷霧村長です。</h1>
 <h3 align="center">私はDiscordで主に活動する超底辺デベロッパーです。</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raimu-root&label=%E8%A6%8B%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%96%B9&color=51d2a0&style=flat-square" alt="raimu-root" /> </p>
 
 <p align="left"> <a href="https://twitter.com/z86fps_n" target="blank"><img src="https://img.shields.io/twitter/follow/z86fps_n?logo=twitter&style=for-the-badge" alt="z86fps_n" /></a> </p>
 
