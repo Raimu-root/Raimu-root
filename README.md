@@ -6,14 +6,14 @@
 
 - 📝　現在学習中の言語… **Pyhton^^**
 
-- 📌　次に学習したい言語… **C#**
+- 📌　次に学習したい言語… **JavaScript**
 
 - 💬　私に連絡するには… **ろりねこ#7733**
 
 <h3 align="left">メディア：</h3>
 <p align="left">
 <a href="https://twitter.com/z86fps_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="z86fps_n" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/雷霧村長 / らいむっ！" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="雷霧村長 / らいむっ！" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC80Yd6P2STmhJfk9xwPOivA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="雷霧村長 / らいむっ！" height="30" width="40" /></a>
 <a href="https://discord.gg/ZrCTbkcff5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZrCTbkcff5" height="30" width="40" /></a>
 </p>
 
