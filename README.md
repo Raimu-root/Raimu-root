@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/z86fps_n" target="blank"><img src="https://img.shields.io/twitter/follow/z86fps_n?logo=twitter&style=for-the-badge" alt="z86fps_n" /></a> </p>
 
-- 📝　現在学習中の言語… **Pyhton^^**
+- 📝　現在学習中の言語… **Python^^**
 
 - 📌　次に学習したい言語… **JavaScript**
 
